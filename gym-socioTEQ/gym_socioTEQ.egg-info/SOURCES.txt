@@ -1,0 +1,6 @@
+setup.py
+gym_socioTEQ.egg-info/PKG-INFO
+gym_socioTEQ.egg-info/SOURCES.txt
+gym_socioTEQ.egg-info/dependency_links.txt
+gym_socioTEQ.egg-info/requires.txt
+gym_socioTEQ.egg-info/top_level.txt
